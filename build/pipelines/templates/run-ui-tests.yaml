@@ -1,6 +1,6 @@
 # This template contains jobs to run UI tests using WinAppDriver.
 
-parameters:
+WRONGparameters:
   platform: ''
   runsettingsFileName: ''
 
